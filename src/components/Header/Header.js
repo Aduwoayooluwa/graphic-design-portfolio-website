@@ -10,7 +10,9 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <DiAtom size="3rem" /> <span>Alpha Designs</span>
+          <div style={{}}>
+            <img src='images/logo.png' width='200px' alt='' />
+            </div>
         </a>
       </Link>
     </Div1>
