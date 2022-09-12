@@ -6,10 +6,14 @@ import Technologies from '../components/Technologies/Technologies';
 import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
-
+import Head from 'next/head'
 const Home = () => {
   return (
     <Layout>
+      <Head>
+        <title>Alpha Designs</title>
+        <meta type='description' content='We will scale your brand to the top by asdding alpha effects to your brand.' />
+      </Head>
       <Section grid>
         <Hero />
         <BgAnimation />
