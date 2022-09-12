@@ -13,7 +13,7 @@ const Hero = (props) => (
           Alpha Designs
         </SectionTitle>
         <SectionText>
-          .....Giving your brand an alpha touch
+          .....Giving your brand an alpha effect
         </SectionText>
         <Button onClick={props.handleClick}><a href='mailto:designalpha58@gmail.com' style={{color: "white", fontWeight: "normal"}}>Hire Me</a></Button>
       </LeftSection>
