@@ -34,7 +34,7 @@ const Projects = () => (
         );
       })}
     </GridContainer>
-    <a href='' style={{color: "white", textAlign: "center", textDecoration: "underline"}}>Click here to see all my works</a>
+    <a href='https://drive.google.com/folderview?id=1rObPev9uegPW9erPcgIyBdbHMKugSyfw' style={{color: "white", textAlign: "center", textDecoration: "underline"}}>Click here to see all my works</a>
   </Section>
 );
 
