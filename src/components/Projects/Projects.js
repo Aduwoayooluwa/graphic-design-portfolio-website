@@ -27,13 +27,14 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={p.visit}>Code</ExternalLinks>
-              <ExternalLinks href={p.source}>Source</ExternalLinks>
+            
+              <ExternalLinks href={p.source}>Website</ExternalLinks>
             </UtilityList>
           </BlogCard>
         );
       })}
     </GridContainer>
+    <a href='' style={{color: "white", textAlign: "center", textDecoration: "underline"}}>Click here to see all my works</a>
   </Section>
 );
 

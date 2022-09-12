@@ -13,9 +13,9 @@ const Hero = (props) => (
           Alpha Designs
         </SectionTitle>
         <SectionText>
-        The purpose of Alpha design  is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={props.handleClick}><a href='mailto:designalpha58@gmail.com' style={{color: "white", fontWeight: "normal"}}>Hire Me</a></Button>
       </LeftSection>
     </Section>
   </>

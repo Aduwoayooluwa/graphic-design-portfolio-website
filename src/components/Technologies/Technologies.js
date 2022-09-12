@@ -1,26 +1,26 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiJqueryLogo } from 'react-icons/di';
+import {GiKnightBanner} from 'react-icons/gi'
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Stack</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with so many brands usind different tools and framework
     </SectionText>
     <List>
       <ListItem>
         <picture>
-          <DiReact size="3rem" />
+          <DiJqueryLogo size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Logo Desigs</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            Adobe Photoshop and Corel Draw x7
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,22 +29,22 @@ const Technologies = () =>  (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Graphic designs Flyer</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Adobe Photoshop and Corel Draw x7
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <GiKnightBanner size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Business cards Designs</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            Adobe Photoshop and Corel Draw x7
           </ListParagraph>
         </ListContainer>
       </ListItem>

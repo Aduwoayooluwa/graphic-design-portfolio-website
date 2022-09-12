@@ -46,7 +46,25 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+          <p style={{marginBottom: "10px"}}>
+          I am Samuel Oyetunji, a creative graphic designer with over 2 years of experience in creating and designing unique and high-quality business cards, letterheads, brand identities, product packaging, logos, flyers, and so on.
+          </p>
+
+          <p style={{marginBottom: "10px"}}>
+          My works interact with the targeted audiences, and have been endorsed by divergent organizations including social media pages, religious organizations, developed and start-up companies, private individuals, and other online businesses to convert sales and gain the desired result. 
+          </p>
+          <p style={{marginBottom: "10px"}}>
+          I am highly skilled with the use of Adobe Photoshop and Coreldraw which has been proven by the maximum level of customer satisfaction I have accrued over the years.
+          </p>
+          <p style={{marginBottom: "10px"}}>
+          I am also open to new ideas and work with both local and international clients. 
+          </p>
+          <p style={{marginBottom: "10px"}}>
+          If you have any upcoming projects related to my skill/work, kindly contact me.
+          </p>
+          <p style={{marginBottom: "10px"}}>
+          I look forward to working with you soon.
+          </p>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
