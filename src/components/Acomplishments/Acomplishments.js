@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 20, text: 'Brands'},
-  { number: 50, text: 'Flyers', },
+  { number: 80, text: 'Flyers', },
   { number: 20, text: 'Logos', },
   { number: 10, text: 'Events', }
 ];
