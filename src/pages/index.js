@@ -12,7 +12,7 @@ const Home = () => {
     <Layout>
       <Head>
         <title>Alpha Designs</title>
-        <meta name='description' content='We will scale your brand to the top by adding alpha effects to your brand. My works interact with the targeted audiences, and have been endorsed by divergent organizations including social media pages, religious organizations, developed and start-ups, private individuals, and other online businesses to convert sales and gain the desired result. '/>
+        <meta name='description' content='We will scale your brand to the top by adding alpha effects to your brand. My works interact with the targeted audiences, and I have been endorsed by divergent organizations including social media pages, religious organizations, and start-ups, private individuals, and other online businesses to convert sales and gain the desired result. '/>
         <meta name="google-site-verification" content="7talfkGTpqO5KshCczUYQMbFvsLNDOb_ki0efzFg-p0" />
       </Head>
       <Section grid>
