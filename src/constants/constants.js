@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Design for Frenbox',
-    description: "Frenbox allows you to easily store, store, organize, interact and monetize your files",
+    description: "Frenbox allows you to easily share, store, organize and monetize your files",
     image: '/images/frenbox.jpg',
     tags: ['Graphics', 'flyer'],
     source: 'https://google.com',

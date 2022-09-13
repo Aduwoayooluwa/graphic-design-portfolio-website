@@ -10,7 +10,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Welcome To <br />
-          Alpha Designs
+          Alpha Design
         </SectionTitle>
         <SectionText>
           .....Giving your brand an alpha effect

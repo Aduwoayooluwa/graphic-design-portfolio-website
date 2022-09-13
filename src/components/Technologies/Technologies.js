@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Stack</SectionTitle>
     <SectionText>
-      I've worked with so many brands usind different tools and framework
+      I've worked with so many brands using different tools and frameworks
     </SectionText>
     <List>
       <ListItem>
@@ -17,7 +17,7 @@ const Technologies = () =>  (
           <DiJqueryLogo size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Logo Desigs</ListTitle>
+          <ListTitle>Logo Design</ListTitle>
           <ListParagraph>
             Experiece with <br />
             Adobe Photoshop and Corel Draw x7
@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Graphic designs Flyer</ListTitle>
+          <ListTitle>Graphic design</ListTitle>
           <ListParagraph>
             Experience with <br />
             Adobe Photoshop and Corel Draw x7
@@ -41,7 +41,7 @@ const Technologies = () =>  (
           <GiKnightBanner size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Business cards Designs</ListTitle>
+          <ListTitle>Business cards Design</ListTitle>
           <ListParagraph>
             Experience with <br />
             Adobe Photoshop and Corel Draw x7
