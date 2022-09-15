@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const CarouselContainer = styled.ul`
   max-width: 1040px;
-  background: #820000820000;
+  background: ;
   padding: 0rem;
   list-style:none;
   display: flex;
@@ -51,7 +51,7 @@ export const CarouselItem = styled.div`
   @media ${props => props.theme.breakpoints.sm} {
     margin-left: 32px;
     min-width: 120px;
-    background: #0E131F;
+    background: ;
     padding: 4px;
     align-content: start;
     scroll-snap-align: start;

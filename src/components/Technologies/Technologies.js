@@ -7,7 +7,7 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Stack</SectionTitle>
+    <SectionTitle>Skills</SectionTitle>
     <SectionText>
       I've worked with so many brands using different tools and frameworks
     </SectionText>

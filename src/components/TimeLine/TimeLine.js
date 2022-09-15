@@ -65,6 +65,7 @@ const Timeline = () => {
           <p style={{marginBottom: "10px"}}>
           I look forward to working with you soon.
           </p>
+          <a href='https://wa.me/+2348050580519' target='_blank' rel='nonreferrer' style={{color:'white', fontWeight:'bold', textAlign: 'center'}}>Contact me via Whatsapp</a>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
